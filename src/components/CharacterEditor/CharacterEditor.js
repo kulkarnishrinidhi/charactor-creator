@@ -1,5 +1,4 @@
 import React from 'react';
-
 import {
   defaultSkinColor,
   defaultClothesColor,
